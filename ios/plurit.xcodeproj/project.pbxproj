@@ -9,22 +9,43 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-plurit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-plurit.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		2403AA8939E84831AC8C53F8 /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BFDC2353106C4DC5AC384A68 /* Inter-Medium.ttf */; };
+		439080F5BC6B41BB81645120 /* SometypeMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65AC0695DC644E7B9EFD9C0B /* SometypeMono-Regular.ttf */; };
+		4D934A69EC90457F96652353 /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 04AD0915D21F4366A38D52D6 /* Inter-Regular.ttf */; };
+		6DED0EED9A0E460DBE4B75F5 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6D929D4A1FB84DB7B8A6B8B5 /* Poppins-Medium.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8846D9450AFD471FB91CE609 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 36B6FF50A7234FAFA47F6287 /* Poppins-Bold.ttf */; };
 		9633F54DD83CB03F42A67AAC /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		B5C21893D61A4B639413C10D /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5DF7930250942E39A736EE4 /* Poppins-SemiBold.ttf */; };
+		B7690321699345A1B26DB25A /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1D2204E00EE1407C893C86C0 /* Inter-Bold.ttf */; };
+		C9AA92B27362403C87C70C6F /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 297CB402E8D44612B19A2636 /* Poppins-Regular.ttf */; };
+		E29F71CBADEC4A699B0C08CE /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E2D463E68B9840D285DE2AEB /* Inter-SemiBold.ttf */; };
+		F6DD2C20105543CBB5A81F67 /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F62B378785B64111B35FB542 /* Inter-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04AD0915D21F4366A38D52D6 /* Inter-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Regular.ttf"; path = "../src/assets/fonts/Inter-Regular.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* plurit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = plurit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = plurit/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = plurit/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = plurit/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1D2204E00EE1407C893C86C0 /* Inter-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Bold.ttf"; path = "../src/assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; };
+		297CB402E8D44612B19A2636 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		36B6FF50A7234FAFA47F6287 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-plurit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-plurit.debug.xcconfig"; path = "Target Support Files/Pods-plurit/Pods-plurit.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-plurit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-plurit.release.xcconfig"; path = "Target Support Files/Pods-plurit/Pods-plurit.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-plurit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-plurit.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		65AC0695DC644E7B9EFD9C0B /* SometypeMono-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SometypeMono-Regular.ttf"; path = "../src/assets/fonts/SometypeMono-Regular.ttf"; sourceTree = "<group>"; };
+		6D929D4A1FB84DB7B8A6B8B5 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../src/assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = plurit/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = plurit/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8D3C95532D74357700A514AB /* plurit.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = plurit.entitlements; path = plurit/plurit.entitlements; sourceTree = "<group>"; };
+		BFDC2353106C4DC5AC384A68 /* Inter-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Medium.ttf"; path = "../src/assets/fonts/Inter-Medium.ttf"; sourceTree = "<group>"; };
+		D5DF7930250942E39A736EE4 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../src/assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		E2D463E68B9840D285DE2AEB /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-SemiBold.ttf"; path = "../src/assets/fonts/Inter-SemiBold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F62B378785B64111B35FB542 /* Inter-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Light.ttf"; path = "../src/assets/fonts/Inter-Light.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +63,7 @@
 		13B07FAE1A68108700A75B9A /* plurit */ = {
 			isa = PBXGroup;
 			children = (
+				8D3C95532D74357700A514AB /* plurit.entitlements */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				761780EC2CA45674006654EE /* AppDelegate.swift */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
@@ -75,6 +97,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				9FAED96976C3402CBFEE2F0D /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -87,6 +110,23 @@
 				13B07F961A680F5B00A75B9A /* plurit.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		9FAED96976C3402CBFEE2F0D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1D2204E00EE1407C893C86C0 /* Inter-Bold.ttf */,
+				F62B378785B64111B35FB542 /* Inter-Light.ttf */,
+				BFDC2353106C4DC5AC384A68 /* Inter-Medium.ttf */,
+				04AD0915D21F4366A38D52D6 /* Inter-Regular.ttf */,
+				E2D463E68B9840D285DE2AEB /* Inter-SemiBold.ttf */,
+				36B6FF50A7234FAFA47F6287 /* Poppins-Bold.ttf */,
+				6D929D4A1FB84DB7B8A6B8B5 /* Poppins-Medium.ttf */,
+				297CB402E8D44612B19A2636 /* Poppins-Regular.ttf */,
+				D5DF7930250942E39A736EE4 /* Poppins-SemiBold.ttf */,
+				65AC0695DC644E7B9EFD9C0B /* SometypeMono-Regular.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -161,6 +201,16 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				9633F54DD83CB03F42A67AAC /* PrivacyInfo.xcprivacy in Resources */,
+				B7690321699345A1B26DB25A /* Inter-Bold.ttf in Resources */,
+				F6DD2C20105543CBB5A81F67 /* Inter-Light.ttf in Resources */,
+				2403AA8939E84831AC8C53F8 /* Inter-Medium.ttf in Resources */,
+				4D934A69EC90457F96652353 /* Inter-Regular.ttf in Resources */,
+				E29F71CBADEC4A699B0C08CE /* Inter-SemiBold.ttf in Resources */,
+				8846D9450AFD471FB91CE609 /* Poppins-Bold.ttf in Resources */,
+				6DED0EED9A0E460DBE4B75F5 /* Poppins-Medium.ttf in Resources */,
+				C9AA92B27362403C87C70C6F /* Poppins-Regular.ttf in Resources */,
+				B5C21893D61A4B639413C10D /* Poppins-SemiBold.ttf in Resources */,
+				439080F5BC6B41BB81645120 /* SometypeMono-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +309,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = plurit/plurit.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = plurit/Info.plist;
@@ -287,6 +338,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = plurit/plurit.entitlements;
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = plurit/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
