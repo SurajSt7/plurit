@@ -12,5 +12,10 @@ Instructions to get a release file:
    11) after entering a valid email or phone number and 1234 OTP you'll enter home screen.
    12) in home screen you'll see the location loading, defaulted the city name to City as a fallback string if city name doesn’t load properly.
    13) at least you'll see the name of that place or location based on that longitude and latitude
+   14) Or if you want to run the app in the emulator/simulator you can run the below commands
+   15) For android - npx ract-native run-android For iOS - npx react-native run-ios or you can also start the projct via XCode.
+   16) steps to run iOS app using XCode -
+   17) go to the root folder of this project with help of finder plurit/ios/plurit.xcworkspace double clikc on this file - plurit.xcworkspace
+   18) it will tak you to XCode. and open the project there. just click on that play button and run the command npm start in VSCode.
 
     
